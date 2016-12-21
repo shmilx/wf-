@@ -4,4 +4,8 @@
 有老婆的
 有工作的
 男人
+<<<<<<< HEAD
 masterssssss
+=======
+masters
+>>>>>>> dev
